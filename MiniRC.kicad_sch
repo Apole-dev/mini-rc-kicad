@@ -5268,12 +5268,6 @@
 		(uuid "11327ba1-8405-494f-a38a-f71eafac21a3")
 	)
 	(junction
-		(at 143.51 87.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "17aa257a-9dfc-4d15-aa67-1a88416223fe")
-	)
-	(junction
 		(at 158.75 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6081,16 +6075,6 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 87.63) (xy 153.67 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "58dc5345-0e59-4090-aa98-da0968a8ce7e")
-	)
-	(wire
-		(pts
 			(xy 27.94 168.91) (xy 27.94 167.64)
 		)
 		(stroke
@@ -6298,6 +6282,16 @@
 			(type default)
 		)
 		(uuid "7dff392f-b75b-4e9c-8b3c-966c679191d0")
+	)
+	(wire
+		(pts
+			(xy 149.86 87.63) (xy 153.67 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "806e5030-992a-4431-b5d9-d9de618a0d57")
 	)
 	(wire
 		(pts
@@ -7048,6 +7042,16 @@
 			(justify right bottom)
 		)
 		(uuid "11756abf-ac07-4364-89b0-7c0d716bbf43")
+	)
+	(label "BAT_OUT"
+		(at 149.86 87.63 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "291e195e-edd1-4898-8a33-8ede5462b7d6")
 	)
 	(label "+3.3V_RADIO"
 		(at 64.77 153.67 0)

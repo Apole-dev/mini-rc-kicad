@@ -2775,7 +2775,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SMA_Handsoldering"
 			(at 111.76 45.72 0)
 			(effects
 				(font
@@ -2911,7 +2911,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SMA_Handsoldering"
 			(at 96.52 43.18 0)
 			(effects
 				(font
