@@ -3416,7 +3416,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 91.694 34.29 0)
 			(effects
 				(font
@@ -4438,7 +4438,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "75pF"
+		(property "Value" "100pF"
 			(at 157.734 44.45 0)
 			(effects
 				(font
@@ -4590,7 +4590,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "82k"
 			(at 172.72 44.4499 0)
 			(effects
 				(font
@@ -5549,7 +5549,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 134.62 20.32 90)
 			(effects
 				(font
@@ -5959,7 +5959,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "13.3k"
+		(property "Value" "11k"
 			(at 172.72 54.6099 0)
 			(effects
 				(font
